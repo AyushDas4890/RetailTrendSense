@@ -1,5 +1,9 @@
 # DMart Product Classification
 
+## 🚀 Live Demo
+
+**Try the application here:** [https://ayushdas4890-retailtrendsense-app-tsdjhd.streamlit.app/](https://ayushdas4890-retailtrendsense-app-tsdjhd.streamlit.app/)
+
 ## Project Overview
 This project aims to classify DMart products into their respective categories based on various features such as product name, brand, price, discounted price, and quantity. It utilizes Machine Learning algorithms to predict the category of a product and provides a user-friendly Streamlit web application for real-time predictions and Exploratory Data Analysis (EDA).
 
